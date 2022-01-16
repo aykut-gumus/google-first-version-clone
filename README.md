@@ -5,3 +5,5 @@
 ### Clone ederek index.html'i inceleyebilirsiniz.
 
 git clone https://github.com/AykutGm/google-first-version-clone
+
+[Link](https://github.com/AykutGm/google-first-version-clone)
