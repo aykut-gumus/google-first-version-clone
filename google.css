@@ -1,0 +1,49 @@
+.style1 {
+    margin: -17px 70px;
+    background-color: #eeeefc;
+    text-align: center;
+}
+
+.form {
+    margin: -15px;
+    height: 50px;
+    text-align: center;
+}
+
+#search {
+    width: 309px;
+}
+
+.btn1 {
+    float: left;
+    padding: -10px;
+    margin: -14px 485px;
+}
+
+.btn2 {
+    float: right;
+    padding: -10px;
+    margin: -14px 500px;
+}
+
+.style2  {
+    margin: -22px 71px;
+    text-align: center;  
+}
+
+.left-bar {
+    width: 500px;
+}
+
+.center-bar {
+    width: 250px;     
+}
+
+.right-bar {
+    width: 400px; 
+}
+
+.style3  {
+    margin: -20px 200px -3px;
+    text-align: center;  
+}
