@@ -4,4 +4,4 @@
 ## Installation
 ### Clone ederek index.html'i inceleyebilirsiniz.
 
-git clone https://github.com/alikartalonline/Kodluyoruz-Front-End-CSS.git
+git clone https://github.com/AykutGm/google-first-version-clone
