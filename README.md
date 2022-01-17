@@ -2,6 +2,6 @@
 ![google](https://user-images.githubusercontent.com/79155927/149670736-edf2fb56-d4db-41cc-b95d-b18be31da3f1.png)
 
 ## Installation
-### Clone ederek index.html'i inceleyebilirsiniz.
+### You can examine index.html by cloning it.
 
 git clone https://github.com/AykutGm/google-first-version-clone
